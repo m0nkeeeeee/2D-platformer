@@ -83,5 +83,6 @@ sysinfo.txt
 Assets/Ludiq.meta
 
 Assets/Ludiq.Generated.meta
+git rm --cached UserSettings/Layouts/default-2021.dwlt
 
 *.pfx
